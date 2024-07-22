@@ -1,6 +1,6 @@
 # Data Science Internship Task 5
 <br>
-<img src="https://github.com/kindo-tk/PRODIGY_DS_05/blob/main/ds5.png">
+<img src="https://github.com/Tousif18/PRODIGY_DS_05/blob/main/ds5.png">
 
 Welcome to the repository for my traffic accident data analysis project, completed during my data science internship at `Prodigy Infotech`. This project involves data cleaning, exploratory data analysis (EDA), visualization, and deriving insights from a dataset containing traffic accident records.
 
@@ -84,7 +84,7 @@ This analysis highlights key patterns in traffic accident data, such as high acc
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
-- Email: tufan.kundu11@gmail.com
+- <a href="https://www.linkedin.com/in/tousif-azim-533313279/">Tousif Azim (LinkedIn)</a>
+- Email: tousifw00431@gmail.com
 
 
